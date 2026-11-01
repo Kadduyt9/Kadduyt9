@@ -13,8 +13,7 @@ I'm a software developer focused on **Python automation**, **asynchronous bot de
 
 ## 💻 What I Work On
 
+* **ffsrc.store (`Kadduyt9/ffsrc.store`)** — Central hub for Free Fire source (`src`) files, API call structures, UDP/TCP network traffic tools, and trending YouTube project files.
 * **Payment Gateway & API Services** — Developing backend services and REST API integrations for automated payment handling, request validation, and continuous integration testing with GitHub Actions.
-
 * **Asynchronous Bots & Workflow Automation** — Building event-driven bots using `python-telegram-bot` and `aiohttp` to handle real-time API queries, automated role/channel verification, and interactive user commands.
-
 * **Network Packet Inspection & Parsing** — Creating custom Python utilities with `Scapy` to capture, filter, and decode live UDP network traffic and extract structured session data in real time.
