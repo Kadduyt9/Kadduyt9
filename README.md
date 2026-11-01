@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Kaddu 👋
 
-<!--
-**Kadduyt9/Kadduyt9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer focused on **Python automation**, **asynchronous bot development**, **API integrations**, and **network protocol analysis**. I build backend tools, automated workflows, and real-time data processing scripts.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category | Technologies & Tools | 
+| ----- | ----- | 
+| **Languages** | Python, Bash | 
+| **Libraries & Frameworks** | `aiohttp`, `python-telegram-bot`, `Scapy`, REST APIs | 
+| **Cloud & CI/CD** | GitHub Actions, Vercel, Heroku, Linux | 
+| **Focus Areas** | Asynchronous Automation, API Services, Network Packet Analysis | 
+
+## 💻 What I Work On
+
+* **Payment Gateway & API Services** — Developing backend services and REST API integrations for automated payment handling, request validation, and continuous integration testing with GitHub Actions.
+
+* **Asynchronous Bots & Workflow Automation** — Building event-driven bots using `python-telegram-bot` and `aiohttp` to handle real-time API queries, automated role/channel verification, and interactive user commands.
+
+* **Network Packet Inspection & Parsing** — Creating custom Python utilities with `Scapy` to capture, filter, and decode live UDP network traffic and extract structured session data in real time.
